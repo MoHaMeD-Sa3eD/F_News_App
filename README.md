@@ -1,7 +1,6 @@
 # news_app
 
-A new Flutter project.
-
+news app to view daily and trending news in different countries
 ## Getting Started
 
 This project is a starting point for a Flutter application.
